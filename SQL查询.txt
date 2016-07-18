@@ -1,0 +1,2 @@
+select * from news where ( NewsTitle like '%ddfd%') or (NewsContent like '%ddfd%')
+select * from news where (NewsTitle¡¡like '%Ò¶%')
